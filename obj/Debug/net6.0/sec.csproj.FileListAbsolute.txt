@@ -1,0 +1,15 @@
+E:\MDT211\Exerciehomew\Sec\obj\Debug\net6.0\sec.csproj.AssemblyReference.cache
+E:\MDT211\Exerciehomew\Sec\obj\Debug\net6.0\sec.GeneratedMSBuildEditorConfig.editorconfig
+E:\MDT211\Exerciehomew\Sec\obj\Debug\net6.0\sec.AssemblyInfoInputs.cache
+E:\MDT211\Exerciehomew\Sec\obj\Debug\net6.0\sec.AssemblyInfo.cs
+E:\MDT211\Exerciehomew\Sec\obj\Debug\net6.0\sec.csproj.CoreCompileInputs.cache
+E:\MDT211\Exerciehomew\Sec\bin\Debug\net6.0\sec.exe
+E:\MDT211\Exerciehomew\Sec\bin\Debug\net6.0\sec.deps.json
+E:\MDT211\Exerciehomew\Sec\bin\Debug\net6.0\sec.runtimeconfig.json
+E:\MDT211\Exerciehomew\Sec\bin\Debug\net6.0\sec.dll
+E:\MDT211\Exerciehomew\Sec\bin\Debug\net6.0\sec.pdb
+E:\MDT211\Exerciehomew\Sec\obj\Debug\net6.0\sec.dll
+E:\MDT211\Exerciehomew\Sec\obj\Debug\net6.0\refint\sec.dll
+E:\MDT211\Exerciehomew\Sec\obj\Debug\net6.0\sec.pdb
+E:\MDT211\Exerciehomew\Sec\obj\Debug\net6.0\sec.genruntimeconfig.cache
+E:\MDT211\Exerciehomew\Sec\obj\Debug\net6.0\ref\sec.dll
