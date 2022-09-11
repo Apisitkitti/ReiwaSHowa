@@ -44,7 +44,7 @@ public class Program
     {
       return "Reiwa";   
     }
-    else return Yook(year,month,day);
+   else return "Not in the past";
    }
     public static bool Meji(int year,int month,int day)
     {
